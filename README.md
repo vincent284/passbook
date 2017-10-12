@@ -15,3 +15,6 @@ Programs in my computer
 1. Homebrew
 2. Install Homebrew vim
 
+## Xcode
+1. Install Xcode 8 and 9
+2. Install cocoapod via gem
