@@ -6,3 +6,12 @@ Programs in my computer
 
 ## Terminal
 1. [oh-my-zsh shell](http://ohmyz.sh/), installed at /Users/name/.oh-my-zsh
+
+## VIM
+1. [vundle](https://github.com/VundleVim/Vundle.vim), to manage vim packages
+2. YouCompleteMe needs to be compiled to work
+
+## Package manager
+1. Homebrew
+2. Install Homebrew vim
+
