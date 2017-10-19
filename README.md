@@ -18,3 +18,7 @@ Programs in my computer
 ## Xcode
 1. Install Xcode 8 and 9
 2. Install cocoapod via gem
+
+## Apps
+1. Virtual Box (installer)
+2. [Vagrant](https://www.vagrantup.com/downloads.html), uninstall tool comes with the installer
