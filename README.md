@@ -22,3 +22,8 @@ Programs in my computer
 ## Apps
 1. Virtual Box (installer)
 2. [Vagrant](https://www.vagrantup.com/downloads.html), uninstall tool comes with the installer
+3. Sopcast
+
+## Foundation and Development Tools
+1. Java JDK 8u152
+2. Android Studio
