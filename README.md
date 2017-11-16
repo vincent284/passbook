@@ -14,6 +14,8 @@ Programs in my computer
 ## Package manager
 1. Homebrew
 2. Install Homebrew vim
+3. Node (including npm)
+4. React native
 
 ## Xcode
 1. Install Xcode 8 and 9
